@@ -50,13 +50,12 @@ Download it manually from Kaggle:
 ## Some Screenshots
 
 ## Data Visualizations 
-Energy Box Plot: <img width="468" alt="image" src="https://github.com/user-attachments/assets/2ece711a-1e43-4442-a326-c51b7ff15748" />
-Features Pair Plot : <img width="389" alt="image" src="https://github.com/user-attachments/assets/09675329-b8de-421b-8316-c27e77a47187" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/2ece711a-1e43-4442-a326-c51b7ff15748" />
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/09675329-b8de-421b-8316-c27e77a47187" />
 
 ## WebCam
+![ChatGPT Image Jul 1, 2025, 10_50_18 PM](https://github.com/user-attachments/assets/c292ad97-8194-413a-9e13-68289d925f79)
 ![ChatGPT Image Jul 1, 2025, 10_44_08 PM](https://github.com/user-attachments/assets/0fa963f8-5a33-44c9-92dd-00c93d9e7a39)
-![ChatGPT Image Jul 1, 2025, 10_44_08 PM](https://github.com/user-attachments/assets/8e994a33-57ca-48f9-bd93-76dd24a64fdb)
-
 ## How it works
 
 1. Clone the Repository:
