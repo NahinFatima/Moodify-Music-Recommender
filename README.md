@@ -51,6 +51,7 @@ Download it manually from Kaggle:
 
 ## Data Visualizations 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/2ece711a-1e43-4442-a326-c51b7ff15748" />
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/01022aa7-d89b-4824-a663-a0811112c429" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/09675329-b8de-421b-8316-c27e77a47187" />
 
 ## WebCam
