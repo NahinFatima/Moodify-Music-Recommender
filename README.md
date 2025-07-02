@@ -45,7 +45,7 @@ Size: ~26MB (too large to include directly)
 
 How to Access:
 Download it manually from Kaggle:
-[Link Text](https://www.kaggle.com/datasets/abdullahorzan/moodify-dataset)
+[Kaggle Link](https://www.kaggle.com/datasets/abdullahorzan/moodify-dataset)
 
 ## Some Screenshots
 
@@ -61,18 +61,18 @@ Download it manually from Kaggle:
 ## How it works
 
 1. Clone the Repository:
-git clone https://github.com/NahinFatima/Moodify.git
+git clone [https://github.com/NahinFatima/Moodify.git](https://github.com/NahinFatima/Moodify-Music-Recommender)
 cd Moodify
 
 2. Install Required Libraries
 Make sure you have the following Python packages installed:
-a. opencv-python
-b. deepface
-c. tensorflow 
-d. pandas
-e. matplotlib
-f. seaborn
-g. numpy
+- opencv-python
+- deepface
+- tensorflow 
+- pandas
+- matplotlib
+- seaborn
+- numpy
 
 3.Launch Jupyter Notebook
 Open the project notebook:
