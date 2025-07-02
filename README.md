@@ -50,8 +50,8 @@ Download it manually from Kaggle:
 ## Some Screenshots
 
 ## Data Visualizations 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/2ece711a-1e43-4442-a326-c51b7ff15748" />
-<img width="389" alt="image" src="https://github.com/user-attachments/assets/09675329-b8de-421b-8316-c27e77a47187" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2ece711a-1e43-4442-a326-c51b7ff15748" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/09675329-b8de-421b-8316-c27e77a47187" />
 
 ## WebCam
 ![ChatGPT Image Jul 1, 2025, 10_50_18 PM](https://github.com/user-attachments/assets/c292ad97-8194-413a-9e13-68289d925f79)
