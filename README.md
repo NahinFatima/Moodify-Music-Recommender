@@ -58,41 +58,43 @@ Download it manually from Kaggle:
 ## WebCam
 ![ChatGPT Image Jul 1, 2025, 10_50_18 PM](https://github.com/user-attachments/assets/c292ad97-8194-413a-9e13-68289d925f79)
 ![ChatGPT Image Jul 1, 2025, 10_44_08 PM](https://github.com/user-attachments/assets/0fa963f8-5a33-44c9-92dd-00c93d9e7a39)
-## How it works
 
-1. Clone the Repository:
-git clone [https://github.com/NahinFatima/Moodify.git](https://github.com/NahinFatima/Moodify-Music-Recommender)
-cd Moodify
+##  How It Works
 
-2. Install Required Libraries
-Make sure you have the following Python packages installed:
-- opencv-python
-- deepface
-- tensorflow 
-- pandas
-- matplotlib
-- seaborn
-- numpy
+### 1. Clone the Repository
+```bash
+git clone https://github.com/NahinFatima/Moodify-Music-Recommender.git
+cd Moodify-Music-Recommender
+```
 
-3.Launch Jupyter Notebook
-Open the project notebook:
+### 2. Install Required Libraries
+Make sure you have Python 3 installed. Then install the required Python packages:
+```bash
+pip install opencv-python deepface tensorflow pandas matplotlib seaborn numpy
+ ```
+ 
+### 3. Launch the Jupyter Notebook
+```bash
 jupyter notebook
+```
+Then open the project notebook (.ipynb file) and run all cells to start the application.
 
-4. Real-time Mood Detection Process
-- Webcam opens and captures your face using OpenCV
-- DeepFace analyzes the frame and detects the dominant emotion
-- The emotion is mapped to a broader mood category (e.g., happy → happy, angry → calm)
-- A relevant song is selected from a local Spotify-sourced CSV dataset
-- The selected song’s Spotify URL is opened in your web browser
-- A custom UI is updated in real-time to display:
-  - Current Emotion
-  - Mapped Mood
-  - Animated waveform
-  - Mood indicator visuals (emoji + colors)
-- Data Visualization
-  Several EDA charts are generated:
-  - Radar plots showing mood-based audio profiles
-  - Pairplots of audio features grouped by label
-  - Heatmaps for feature correlation and mood relationships
-  - Boxplots and histograms to explore song energy and duration
+## Real-Time Mood Detection Process
+1. The webcam opens and captures your face using OpenCV.
+2. DeepFace analyzes the live frame to detect your dominant facial emotion.
+3. The detected emotion is mapped to the mood category.
+4. A relevant song is selected from the local dataset of 278k Spotify songs.
+5. The song's Spotify URL is opened in your default browser.
+6. A custom UI updates in real time to show:
+     🎭 Current Emotion
+     🎵 Mapped Mood
+     📈 Animated waveform
+     😀 Mood indicator visuals (emoji + color theme)
 
+## Data Visualizations
+The project includes several elegant, interactive data visualizations to explore song characteristics by mood:
+- Radar Plots: Show mood-wise audio profiles across features like energy, valence, and danceability.
+- Pairplots: Reveal relationships between audio features grouped by mood/emotion.
+- Heatmaps: Visualize feature correlations and how they vary across different moods.
+- Boxplots: Styled like equalizers to compare energy levels across moods.
+- Histograms: Display the distribution of track durations by mood.
