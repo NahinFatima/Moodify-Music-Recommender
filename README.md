@@ -86,10 +86,10 @@ Then open the project notebook (.ipynb file) and run all cells to start the appl
 4. A relevant song is selected from the local dataset of 278k Spotify songs.
 5. The song's Spotify URL is opened in your default browser.
 6. A custom UI updates in real time to show:
-     🎭 Current Emotion
-     🎵 Mapped Mood
-     📈 Animated waveform
-     😀 Mood indicator visuals (emoji + color theme)
+    - 🎭 Current Emotion
+    - 🎵 Mapped Mood
+    - 📈 Animated waveform
+    - 😀 Mood indicator visuals (emoji + color theme)
 
 ## Data Visualizations
 The project includes several elegant, interactive data visualizations to explore song characteristics by mood:
